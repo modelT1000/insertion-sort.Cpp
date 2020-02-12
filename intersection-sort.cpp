@@ -9,15 +9,6 @@ void print(int liczba[], int i2)
         std::cout << liczba[licznik] << " ";
     }
     std::cout << "" << std::endl;
-    /*
-    int licznik = 0;
-    do
-    {
-        std::cout << liczba[licznik] << ", ";
-        licznik++;
-    } while (licznik < i);
-    std::cout << std::endl;
-    */
 }
 
 void write(int liczba[], int i3)
