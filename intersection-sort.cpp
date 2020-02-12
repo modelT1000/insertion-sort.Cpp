@@ -24,7 +24,7 @@ int main()
 {
     int liczba[100];
     int i;
-    std::cout << "Maksymalna ilosc liczb ktora mozna postowac to 100." << std::endl;
+    std::cout << "Maksymalna ilosc liczb ktore mozna postowac to 100." << std::endl;
     std::cout << "Wprowadz liczby calkowite ktore chcesz posortowac: ";
     std::cin >> i;
     write(liczba, i);
